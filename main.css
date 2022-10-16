@@ -637,7 +637,7 @@ footer>div {
 /* Responsive */
 
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) and (max-width: 767px) {
+@media (min-width: 300px) and (max-width: 767px) {
     
     .circle-lettering {
         position: absolute;
