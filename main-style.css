@@ -619,7 +619,7 @@ footer>div {
     .header-content .main-btn {
         display: none;
     }
-    
+
 
     .live-info {
         flex-direction: column;
@@ -812,6 +812,7 @@ footer>div {
         flex-direction: column;
         width: 100%;
     }
+
     .list-content ul {
         width: 100%;
     }
