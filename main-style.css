@@ -746,7 +746,6 @@ footer>div {
 
     .bonus-cards {
         flex-direction: column;
-        !important
     }
 
     .extra-info {
@@ -815,7 +814,6 @@ footer>div {
 
     .bonus-cards {
         flex-direction: column;
-        !important
     }
 
     .extra-info {
